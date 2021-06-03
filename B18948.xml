@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of His Maiestys most gracious letter to the Lord Major and aldermen of his city of London, and all other his wel-affected subjects of that city.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18948</idno><idno type="EEBO-CITATION">99888075</idno>
+  <idno type="VID">194182</idno>
+  <idno type="EEBO-PROQUEST">2264221978</idno>
+  
+            <idno type="STC">Wing C2167</idno>
+            <idno type="STC">Interim Tract Supplement Guide 105.f.17[24]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[378]</idno>
+            <idno type="STC">ESTC R228988</idno>
+            <idno type="PROQUEST">ocm99888075</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888075e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194182)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:2[24]; C29:2[379])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of His Maiestys most gracious letter to the Lord Major and aldermen of his city of London, and all other his wel-affected subjects of that city.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+                  <author>Violet, Thomas, fl. 1634-1662.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"Given at our court at Oxford in the 19. yeare of our raign, 26. Decem. 1643."</note>
+                  <note>Initial; type ornament head-lines.</note>
+                  <note>Copy at reel 29:2[379] contain ms. letter on verso, dated '17 Aug.'</note>
+                  <note>Imperfect: copy at reel C25:2[24] includes only 'A copy of His Maiestys most gracious letter ...'</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:194182:1"/>
+            <head>A COPY OF HIS MAIESTYS MOST GRACIOVS LETTER TO THE LORD Major and Aldermen of his City of London, and all other his wel-affected Subjects of that City.</head>
+            <opener>
+               <signed>CHARLES REX,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Rusty and well beloved, We greet you well. When we remember the many Acts of Grace and favour we and our royall predecessours have conferred upon that our City of Lond<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and the many examples of duty and loyalty, for which that City have been likewise famous, wee are willing to be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieve, notwithstanding the great defection w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have found in that place, that all men are not so farre degenerated from their affecti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to us, and to the peace of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdome, as to desire a continuance of the miseries they now feele, and therefore being informed that there is a desire in some prin<g ref="char:EOLhyphen"/>cipall persons of that City, to present a petition to us, which may tend to the procuring a good und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rstanding, be<g ref="char:EOLhyphen"/>tween us and that our City, whereby the peace of the whole Kingdome may be procured: We have thought fit to let you know that we are ready to receive any such petition, and the persons who shall be appointed to present <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he same to us, shall have a safe conduct, and you sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll assure all our good Subiects of that our City, whose hearts are touched with any sence of duty to us, or of love to the Religion &amp; Laws established, in the quiet and peaceable fruition wherof they &amp; their ancestors have inioyed so great happiness, that we have neither passed any Act, nor made any profession or protestation for the maintenance and defence of the true Protestant Religion, and the Liberties of the Subiect, which we will not most strictly and religiously observe; and for the which we will not be alwayes ready to give them any security can <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e desired. And of these our gracious Letters we expect a speedy answer from you. And so we bid you farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at our Court at Oxford in</hi>
+                  <date>
+                     <hi>the</hi> 19. <hi>yeare of our Raign,</hi> 26. <hi>Decem.</hi> 1643.</date>
+               </dateline>
+               <signed>By his Maiesties command <hi>George Digbie.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Right Honourable the Lord Maior, Aldermen, and Common Counsell of the City of <hi>London.</hi> These,</head>
+            <opener>
+               <salute>Right Honourable, and right Worshipfull,</salute>
+            </opener>
+            <p>THis his Majesties most gracious Letter, I <hi>Thomas Violet</hi> of <hi>London</hi> Goldsmith, brought from <hi>Oxford</hi> to <hi>London:</hi> and for doing his Ma<g ref="char:EOLhyphen"/>jestie this service for the benefit and weale publique of this famous City, I have been committed prisoner to the Tower of London for three yeares and halfe, and for nine hundred twenty eight dayes of that time, was kept close prisoner in my Chamber, my Estate to a great value sequestred (too gentle a word for so cruell usage to the Kings messenger.) I doe likewise send to you here inclosed, a booke printed by <hi>Peter Cole,</hi> in <hi>Corne hill</hi> neare the Royall Exchange the 16. of <hi>Ianuary,</hi> 1643. Wherein you may see the transaction of this Businesse concerning this his Majesties Letter, at large, printed by order of the two houses of Parliament, a booke worthy of your serious consideration, Now my humble request to you the Lord Major; Aldermen and Common Counsel and all other well affected people of the City of London is▪</p>
+            <p n="1">1. That you would seriously consider of this his Majesties most gracious letter unto you.</p>
+            <p n="2">2. That you would examine all or any of the Records of the City of London, to see if ever any Messenger from any of his Majesties prede<g ref="char:EOLhyphen"/>cessours to this City of London, with the Kings letter desiring peace, hath been so hardly used as I have been.</p>
+            <p n="3">3. That you would improve your interest with both houses of Parliament, that I may be discharged from my cruell imprisonment, may have the Sequestration taken off from my estate, and receive full reparations for all my dammages, and may have leave to attend his Majestie.</p>
+            <p>And if the partciulars in his Majesties letter which I send you here the Copy off, shall yet be taken into your serious consideration, I humb<g ref="char:EOLhyphen"/>ly conceive it may prove in some measure an happy expedient, to prevent those dangers, mischiefes, and inconveniences, that seeme to threat<g ref="char:EOLhyphen"/>en disturbance both of the City and Kingdome: which I am imboldned humbly to offer to your wisedome, out of the zeale and af<g ref="char:EOLhyphen"/>fection my heart really beareth to the happinesse, peace, and prosperity both of this famous City of London, and the whole Kingdom.</p>
+            <closer>
+               <dateline>From my Prison in the Tower, <date>this 28. of <hi>Iune,</hi> 1647.</date>
+               </dateline>
+               <signed>Your honours and the Cities most humble servant. <hi>Thomas Violet</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Wor<seg rend="sup">th.</seg> Mr. <hi>Michell</hi> Esquire, Towne-Clerke of the Citie of LONDON. <hi>July</hi> 16. 1647.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have sent you by this Bearer, Mr. <hi>White,</hi> Warder of the Tower of <hi>London,</hi> this Letter, and request you that you would be pleased to pre<g ref="char:EOLhyphen"/>sent it and the booke annexed, unto the Common Counsell, or a Common Hall of the Citie of <hi>London,</hi> and that I may obtaine so much Fa<g ref="char:EOLhyphen"/>vour from them, as to receive an answer from them; what they please to do in the businesse, and any answer they please to returne mee, (so I may have one) that the Kings Majestie may know how the Citie of <hi>London</hi> deale with me HIS Messenger for Peace, shall obleidge me to re<g ref="char:EOLhyphen"/>maine the Cities humble Servant:</p>
+            <closer>
+               <signed>Thomas Violet.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:194182:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
